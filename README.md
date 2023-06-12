@@ -25,5 +25,5 @@ These metrics are represented in visually appealing and understandable charts an
 
 
 
-![Visualizations](https://github.com/Simro25011/Inventory_management_Viz/blob/main/Inventory%20Management%20Dashboard.pbix)
+![Visualizations](https://app.powerbi.com/groups/me/reports/3a5a9f0e-ed7d-49c2-a278-8a6646202719/ReportSection?experience=power-bi)
 
