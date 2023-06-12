@@ -24,6 +24,6 @@ These metrics are represented in visually appealing and understandable charts an
 - Week's Demand by Week Date: Keep track of weekly demand to effectively manage your stock and meet customer demands on time.
 
 
+[Click here to view the Power BI Report](https://app.powerbi.com/groups/me/reports/3a5a9f0e-ed7d-49c2-a278-8a6646202719/ReportSection?experience=power-bi)
 
-![Visualizations](https://app.powerbi.com/groups/me/reports/3a5a9f0e-ed7d-49c2-a278-8a6646202719/ReportSection?experience=power-bi)
 
